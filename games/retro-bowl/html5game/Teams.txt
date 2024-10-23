@@ -19,7 +19,6 @@ uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	offense
 17	New York G	1	0	$1933d1	$001cc8	$FFFFFF	$001CC8	NYG	6	5	0	0	0	0	47	25	0
 18	Philadelphia	1	0	$153020	$264933	$ffffff	$1b1b1b	PHI	10	10	0	0	0	0	47	15	1
 19	Washington	1	0	$4f0f0f	$641313	$FFFFFF	$641313	WAS	4	8	0	0	0	0	43	13	0
-20	Arizona	1	1	$ffffff	$a20000	$ffffff	$a20000	ARI	4	4	0	0	0	1	9	0	1
 21	Los Angeles R	1	1	$FA	$FA	$FFD100	$FA	LAR	4	6	0	0	0	2	17	0	0
 22	San Francisco	1	1	$ada94b	$a60303	$ada94b	$a60303	S.F	9	10	0	0	0	0	24	0	0
 23	Seattle	1	1	$1b2145	$283166	$1b2145	$5fe800	SEA	7	6	0	0	0	0	37	5	1
